@@ -7,3 +7,6 @@ The purpose of this project is to collect, work with, and clean a data set in or
 3. Uses descriptive activity names to name the activities in the data set;
 4. Appropriately labels the data set with descriptive variable names;
 5. Create and export a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+# Code Book
+This code book summarizes the resulting data fields in tidydata.txt.
