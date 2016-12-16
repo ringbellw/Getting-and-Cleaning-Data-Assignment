@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data-Assignment
+# GettingAndCleaningData-Project
 The purpose of this project is to collect, work with, and clean a data set in order to prepare tidy data that can be used for later analysis. 
 
 # The R scrpit called run_analysis.R was created to do the following 
